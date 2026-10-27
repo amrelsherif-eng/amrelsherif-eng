@@ -1,11 +1,15 @@
-# Hi, I'm Amr Elsherif 👋
-
-**Network & Cloud Infrastructure | CCNA Track · AWS · Linux | Aspiring DevOps Engineer**
+<picture>
+  <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 767px)" srcset="assets/banner-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Amr Elsherif: Network & Cloud Infrastructure, Aspiring DevOps Engineer">
+</picture>
 
 Final-year Electronics & Communications Engineering student at Damanhour University (Class of 2027), based in Alexandria, Egypt.
 I'm building a career in network and cloud infrastructure, on a path toward DevOps. My coding, embedded and team-leadership work is the foundation underneath it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-0e7490?style=flat-square&logo=vercel&logoColor=white)](https://amrelsherif-eng.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-3_role--focused_versions-b45309?style=flat-square&logo=readthedocs&logoColor=white)](https://amrelsherif-eng.vercel.app/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrelsherif-eng)
 [![Email](https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrelsherif.eng@gmail.com)
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 800 520" role="img" aria-label="Amr Elsherif profile banner">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#e6edf3" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="800" height="520" rx="16"/></clipPath>
+    <path id="route1" d="M72 420L232 368L408 362L582 366L728 420"/>
+    <path id="route2" d="M72 420L218 462L400 418L568 464L728 420"/>
+    <path id="route3" d="M232 368L218 462L396 478L568 464L582 366"/>
+    <path id="route4" d="M72 420L400 418L728 420"/>
+    <style>
+      text { font-family: "Space Grotesk", "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .link { fill: none; stroke: #00f0ff; stroke-opacity: .25; stroke-width: 1; }
+      .node { fill: #111a20; stroke: #00f0ff; stroke-opacity: .8; stroke-width: 1.4; }
+      .node-alt { fill: #171710; stroke: #ffb300; stroke-opacity: .8; stroke-width: 1.4; }
+      .core { fill: #00f0ff; }
+      .core-alt { fill: #ffb300; }
+      .packet { fill: #00f0ff; filter: url(#glow); }
+      @media (prefers-reduced-motion: reduce) { .packet { display: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="800" height="520" fill="#0a0d10"/>
+    <rect width="800" height="520" fill="url(#grid)"/>
+    <text x="48" y="118" fill="#e6edf3" font-size="76" font-weight="700" letter-spacing="-1.5">Amr Elsherif</text>
+    <text x="48" y="172" fill="#8b949e" font-size="32" font-weight="500">Network &amp; Cloud Infrastructure</text>
+    <text x="48" y="214" fill="#8b949e" font-size="32" font-weight="500">Aspiring DevOps Engineer</text>
+    <text x="48" y="268" fill="#00f0ff" font-size="24" font-weight="500" font-family="JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace">$ ccna --in-progress</text>
+    <text x="48" y="302" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#00f0ff" font-size="24" font-weight="500" font-family="JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace" xml:space="preserve">  &amp;&amp; aws --academy-graduate &amp;&amp; linux --next</text>
+    <rect x="616" y="283" width="12" height="24" rx="1.5" fill="#00f0ff">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.48;.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <g>
+      <path class="link" d="M72 420L232 368L408 362L582 366L728 420M72 420L218 462L400 418L568 464L728 420M232 368L218 462L396 478L568 464L582 366M72 420L400 418L728 420M408 362L400 418L396 478M396 478L728 420"/>
+      <g fill="none" stroke="#00f0ff" stroke-opacity=".08" stroke-width="1"><circle cx="400" cy="418" r="38"/><circle cx="400" cy="418" r="62"/></g>
+      <g>
+        <circle class="node" cx="72" cy="420" r="8"><animate attributeName="r" values="8;9.5;8" dur="3.4s" repeatCount="indefinite"/></circle><circle class="core" cx="72" cy="420" r="2"/>
+        <rect class="node" x="225.5" y="361.5" width="13" height="13" rx="3.5"><animate attributeName="stroke-opacity" values=".55;1;.55" dur="4.1s" repeatCount="indefinite"/></rect><circle class="core" cx="232" cy="368" r="2"/>
+        <circle class="node" cx="408" cy="362" r="7.5"><animate attributeName="r" values="7.5;8.8;7.5" dur="3.8s" repeatCount="indefinite"/></circle><circle class="core" cx="408" cy="362" r="2"/>
+        <rect class="node" x="575.5" y="359.5" width="13" height="13" rx="3.5"><animate attributeName="stroke-opacity" values=".6;1;.6" dur="3.6s" repeatCount="indefinite"/></rect><circle class="core" cx="582" cy="366" r="2"/>
+        <circle class="node" cx="728" cy="420" r="8"><animate attributeName="r" values="8;9.5;8" dur="4s" repeatCount="indefinite"/></circle><circle class="core" cx="728" cy="420" r="2"/>
+        <rect class="node-alt" x="211.5" y="455.5" width="13" height="13" rx="4"><animate attributeName="stroke-opacity" values=".55;1;.55" dur="3.5s" repeatCount="indefinite"/></rect><circle class="core-alt" cx="218" cy="462" r="2"/>
+        <circle class="node" cx="400" cy="418" r="10"><animate attributeName="r" values="10;11.8;10" dur="3.2s" repeatCount="indefinite"/></circle><circle class="core" cx="400" cy="418" r="2.5"/>
+        <rect class="node" x="561.5" y="457.5" width="13" height="13" rx="4"><animate attributeName="stroke-opacity" values=".55;1;.55" dur="4.4s" repeatCount="indefinite"/></rect><circle class="core" cx="568" cy="464" r="2"/>
+        <circle class="node" cx="396" cy="478" r="7.5"><animate attributeName="r" values="7.5;8.8;7.5" dur="3.9s" repeatCount="indefinite"/></circle><circle class="core" cx="396" cy="478" r="2"/>
+      </g>
+      <g class="packet">
+        <circle r="2.4"><animateMotion dur="3.8s" begin="0s" repeatCount="indefinite"><mpath href="#route1"/></animateMotion></circle>
+        <circle r="2.2"><animateMotion dur="4.6s" begin="-1.7s" repeatCount="indefinite"><mpath href="#route2"/></animateMotion></circle>
+        <circle r="2.1"><animateMotion dur="5.2s" begin="-2.4s" repeatCount="indefinite"><mpath href="#route3"/></animateMotion></circle>
+      </g>
+      <circle r="2.4" class="core-alt" filter="url(#glow)"><animateMotion dur="4.3s" begin="-1.1s" repeatCount="indefinite"><mpath href="#route4"/></animateMotion></circle>
+    </g>
+  </g>
+</svg>
