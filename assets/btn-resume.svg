@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="56" viewBox="0 0 192 56" role="img" aria-labelledby="title">
+  <title id="title">Resume</title>
+  <rect x="0.75" y="0.75" width="190.5" height="54.5" rx="27.25" fill="#0a0d10" stroke="#1f2937" stroke-width="1.5"/>
+  <path d="M29 1.5h106" stroke="#ffffff" stroke-opacity=".06" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="32" cy="28" r="16" fill="#ffb300" fill-opacity=".10"/>
+  <g transform="translate(22 18)" fill="none" stroke="#ffb300" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 1.5h8l5 5v12H4zM12 1.8v5h4.8M7 11h7M7 15h7"/>
+  </g>
+  <text x="54" y="34" font-family="Space Grotesk, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e6edf3">Resume</text>
+  <text x="158" y="33.5" font-family="Space Grotesk, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8b949e">↗</text>
+</svg>

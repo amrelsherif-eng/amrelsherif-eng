@@ -6,10 +6,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://amrelsherif-eng.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-0e7490?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://amrelsherif-eng.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-3_role--focused_versions-b45309?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
-  <a href="https://www.linkedin.com/in/amrelsherif-eng"><img src="https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amrelsherif.eng@gmail.com"><img src="https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://amrelsherif-eng.vercel.app"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
+  <a href="https://amrelsherif-eng.vercel.app/resume"><img src="assets/btn-resume.svg" height="44" alt="Resume: 3 role-focused versions"></a>
+  <a href="https://www.linkedin.com/in/amrelsherif-eng"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="mailto:amrelsherif.eng@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"></a>
 </p>
 
 <picture>
@@ -68,11 +68,13 @@
 
 ## Certifications
 
-- **AWS Academy Graduate:** Cloud Architecting · Cloud Foundations
-- **NTI × ITIDA:** Cloud Architect Internship (AWS, 120 h) · Full Stack Web Development (PHP, 120 h)
-- **DEPI (MCIT):** Certificate of Achievement (Flutter) · Certificate of Appreciation as Team Leader
-- **In progress:** Cisco CCNA v7 at NTI
+<a href="https://amrelsherif-eng.vercel.app/certifications">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/certs-mobile.svg">
+    <img src="assets/certs.svg" width="100%" alt="Certifications: AWS Academy Graduate in Cloud Architecting and Cloud Foundations; NTI × ITIDA Cloud Architect Internship and Full Stack Web Development (120 h each); DEPI Certificate of Achievement and Certificate of Appreciation as Team Leader; Cisco CCNA v7 in progress. Click to see the full list with verification links."></picture>
+</a>
 
-Full list with verification links: **[amrelsherif-eng.vercel.app/certifications](https://amrelsherif-eng.vercel.app/certifications)**
-
-<p align="center"><sub>Built with hand-made SVG cards · Network & Cloud Infrastructure · Alexandria, Egypt</sub></p>
+<picture>
+  <source media="(max-width: 767px)" srcset="assets/footer-mobile.svg">
+  <img src="assets/footer.svg" width="100%" alt="$ exit. Thanks for stopping by, open to internships and July 2027 roles.">
+</picture>

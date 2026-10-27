@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 382" width="100%" role="img" aria-label="DevSync: Led the 5-member team that designed and built an AI developer-to-project matching app."><title>DevSync: Led the 5-member team that designed and built an AI developer-to-project matching app.</title><style>
 .f{opacity:0;animation:in .5s ease-out forwards}
-@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes in{from{opacity:0}to{opacity:1}}
 .cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
 .dot{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
 @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}.cur,.dot{animation:none}}

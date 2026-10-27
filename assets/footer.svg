@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%" role="img" aria-label="Thanks for stopping by"><title>Thanks for stopping by</title><style>
+.f{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{from{opacity:0}to{opacity:1}}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.dot{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}.cur,.dot{animation:none}}
+</style><defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e6edf3" stroke-opacity=".035"/></pattern><filter id="gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect x=".5" y=".5" width="1199" height="89" rx="16" fill="#0a0d10" stroke="#1f2937"/><rect x=".5" y=".5" width="1199" height="89" rx="16" fill="url(#g)"/><rect x=".5" y=".5" width="1199" height="89" rx="16" fill="#0a0d10" stroke="#1f2937"/><text x="600" y="30" text-anchor="middle" font-family="JetBrains Mono, Cascadia Code, Consolas, ui-monospace, monospace" font-size="16" fill="#8b949e">$ exit<tspan class="cur" fill="#00f0ff"> █</tspan></text><text x="600" y="65" text-anchor="middle" font-family="Space Grotesk, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Thanks for stopping by · open to internships and Jul 2027 roles</text></svg>

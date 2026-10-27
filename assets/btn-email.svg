@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179" height="56" viewBox="0 0 179 56" role="img" aria-labelledby="title">
+  <title id="title">Email</title>
+  <rect x="0.75" y="0.75" width="177.5" height="54.5" rx="27.25" fill="#0a0d10" stroke="#1f2937" stroke-width="1.5"/>
+  <path d="M29 1.5h95" stroke="#ffffff" stroke-opacity=".06" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="32" cy="28" r="16" fill="#00f0ff" fill-opacity=".10"/>
+  <g transform="translate(22 18)" fill="none" stroke="#00f0ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1.5" y="3" width="17" height="14" rx="2"/>
+    <path d="m2.5 5 7.5 6 7.5-6"/>
+  </g>
+  <text x="54" y="34" font-family="Space Grotesk, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e6edf3">Email</text>
+  <text x="145" y="33.5" font-family="Space Grotesk, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8b949e">↗</text>
+</svg>
