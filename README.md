@@ -35,7 +35,7 @@ Open to **internships** now (Network, NOC, Cloud, SysAdmin, Junior DevOps) and *
 |---|---|
 | [**Network Lab**](https://amrelsherif-eng.vercel.app/lab) | Three short browser games on my portfolio: Subnetting Sprint, Fix the Network (CCNA troubleshooting cases) and Build a VPC |
 | [**WeatherLink**](https://github.com/amrelsherif-eng/weatherlink) | 5-member team IoT project: ESP32-S3 firmware (C++/PlatformIO) → Blynk Cloud → Flutter app (Clean Architecture, BLoC) |
-| [**DevSync**](https://github.com/amrelsherif-eng/devsync_flutter) | DEPI capstone: I led the 5-member team that designed and built an AI developer-to-project matching app (Flutter, Firebase, GitHub API, Gemini API) |
+| [**DevSync**](https://github.com/amrelsherif-eng/devsync_flutter) | DEPI capstone: I led the 5-member team that designed and built an AI developer-to-project matching app (Flutter, Firebase, FastAPI, GitHub API, LLM APIs) |
 | [**Resume template**](https://github.com/amrelsherif-eng/software-engineer-resume-template) | My open-source, ATS-friendly one-page LaTeX resume template, ready to copy on Overleaf |
 | [**Portfolio**](https://github.com/amrelsherif-eng/portfolio) | React, TypeScript, Three.js and GSAP, with the Network Lab and the Ping AI assistant |
 | **Li-Fi graduation project** | 4-member team, design phase: beam-steered Li-Fi with seamless Wi-Fi failover (Raspberry Pi 5, WireGuard, OpenCV tracking) |
