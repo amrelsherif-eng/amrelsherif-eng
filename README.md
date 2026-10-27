@@ -5,46 +5,68 @@
   <img src="assets/banner-light.svg" width="100%" alt="Amr Elsherif: Network & Cloud Infrastructure, Aspiring DevOps Engineer">
 </picture>
 
-Final-year Electronics & Communications Engineering student at Damanhour University (Class of 2027), based in Alexandria, Egypt.
-I'm building a career in network and cloud infrastructure, on a path toward DevOps. My coding, embedded and team-leadership work is the foundation underneath it.
+<p align="center">
+  <a href="https://amrelsherif-eng.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-0e7490?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://amrelsherif-eng.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-3_role--focused_versions-b45309?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/amrelsherif-eng"><img src="https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:amrelsherif.eng@gmail.com"><img src="https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-0e7490?style=flat-square&logo=vercel&logoColor=white)](https://amrelsherif-eng.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-3_role--focused_versions-b45309?style=flat-square&logo=readthedocs&logoColor=white)](https://amrelsherif-eng.vercel.app/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrelsherif-eng)
-[![Email](https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrelsherif.eng@gmail.com)
+<picture>
+  <source media="(max-width: 767px)" srcset="assets/neofetch-mobile.svg">
+  <img src="assets/neofetch.svg" width="100%" alt="Amr Elsherif: role, track, skills and contact in a neofetch-style card">
+</picture>
 
----
+## Roadmap
 
-## 🧭 Where I'm heading
+<picture>
+  <source media="(max-width: 767px)" srcset="assets/roadmap-mobile.svg">
+  <img src="assets/roadmap.svg" width="100%" alt="Learning roadmap drawn as a CI/CD pipeline: AWS Academy done, CCNA in progress, Linux starting, AWS and DevOps queued">
+</picture>
 
-| Step | Status |
-|---|---|
-| **CCNA** (Cisco 200-301) | Training at NTI now (CCNA v7, 120 h); exam planned for late 2026 |
-| **Linux** (RHCSA) | Starting now |
-| **AWS** (Solutions Architect Associate) | Next, after AWS Academy Cloud Foundations + Cloud Architecting |
-| **DevOps** (Docker, CI/CD, Terraform) | Later |
+## Projects
 
-Open to **internships** now (Network, NOC, Cloud, SysAdmin, Junior DevOps) and **full-time roles from July 2027**, in Alexandria, Cairo or remote.
+<a href="https://amrelsherif-eng.vercel.app/lab">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/project-network-lab-mobile.svg">
+    <img src="assets/project-network-lab.svg" width="100%" alt="Network Lab: Three short browser games on my portfolio: Subnetting Sprint, Fix the Network (CCNA troubleshooting cases) and Build a VPC">
+  </picture>
+</a>
 
-## 🛠️ What I work with
+<a href="https://github.com/amrelsherif-eng/weatherlink">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/project-weatherlink-mobile.svg">
+    <img src="assets/project-weatherlink.svg" width="100%" alt="WeatherLink: 5-member team IoT project: ESP32-S3 firmware (C++/PlatformIO) → Blynk Cloud → Flutter app (Clean Architecture, BLoC)">
+  </picture>
+</a>
 
-- **Networking:** TCP/IP, subnetting, VLANs, OSPF, routing, Cisco Packet Tracer
-- **Cloud (AWS):** EC2, S3, VPC, RDS, IAM, high availability, serverless basics
-- **Systems & code:** Linux, Python, Git/GitHub, C/C++, REST APIs
-- **Apps & embedded (project work):** Flutter/Dart, Firebase, ESP32, Raspberry Pi
+<a href="https://github.com/amrelsherif-eng/devsync_flutter">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/project-devsync-mobile.svg">
+    <img src="assets/project-devsync.svg" width="100%" alt="DevSync: DEPI capstone: I led the 5-member team that designed and built an AI developer-to-project matching app (Flutter, Firebase, FastAPI, GitHub API, LLM APIs)">
+  </picture>
+</a>
 
-## 📌 Projects
+<a href="https://github.com/amrelsherif-eng/software-engineer-resume-template">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/project-resume-template-mobile.svg">
+    <img src="assets/project-resume-template.svg" width="100%" alt="Resume template: My open-source, ATS-friendly one-page LaTeX resume template, ready to copy on Overleaf">
+  </picture>
+</a>
 
-| Project | What it is |
-|---|---|
-| [**Network Lab**](https://amrelsherif-eng.vercel.app/lab) | Three short browser games on my portfolio: Subnetting Sprint, Fix the Network (CCNA troubleshooting cases) and Build a VPC |
-| [**WeatherLink**](https://github.com/amrelsherif-eng/weatherlink) | 5-member team IoT project: ESP32-S3 firmware (C++/PlatformIO) → Blynk Cloud → Flutter app (Clean Architecture, BLoC) |
-| [**DevSync**](https://github.com/amrelsherif-eng/devsync_flutter) | DEPI capstone: I led the 5-member team that designed and built an AI developer-to-project matching app (Flutter, Firebase, FastAPI, GitHub API, LLM APIs) |
-| [**Resume template**](https://github.com/amrelsherif-eng/software-engineer-resume-template) | My open-source, ATS-friendly one-page LaTeX resume template, ready to copy on Overleaf |
-| [**Portfolio**](https://github.com/amrelsherif-eng/portfolio) | React, TypeScript, Three.js and GSAP, with the Network Lab and the Ping AI assistant |
-| **Li-Fi graduation project** | 4-member team, design phase: beam-steered Li-Fi with seamless Wi-Fi failover (Raspberry Pi 5, WireGuard, OpenCV tracking) |
+<a href="https://github.com/amrelsherif-eng/portfolio">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/project-portfolio-mobile.svg">
+    <img src="assets/project-portfolio.svg" width="100%" alt="Portfolio: React, TypeScript, Three.js and GSAP, with the Network Lab and the Ping AI assistant">
+  </picture>
+</a>
 
-## 🎓 Certifications & training
+<picture>
+  <source media="(max-width: 767px)" srcset="assets/project-lifi-mobile.svg">
+  <img src="assets/project-lifi.svg" width="100%" alt="Li-Fi graduation project: 4-member team, design phase: beam-steered Li-Fi with seamless Wi-Fi failover (Raspberry Pi 5, WireGuard, OpenCV tracking)">
+</picture>
+
+## Certifications
 
 - **AWS Academy Graduate:** Cloud Architecting · Cloud Foundations
 - **NTI × ITIDA:** Cloud Architect Internship (AWS, 120 h) · Full Stack Web Development (PHP, 120 h)
@@ -52,3 +74,5 @@ Open to **internships** now (Network, NOC, Cloud, SysAdmin, Junior DevOps) and *
 - **In progress:** Cisco CCNA v7 at NTI
 
 Full list with verification links: **[amrelsherif-eng.vercel.app/certifications](https://amrelsherif-eng.vercel.app/certifications)**
+
+<p align="center"><sub>Built with hand-made SVG cards · Network & Cloud Infrastructure · Alexandria, Egypt</sub></p>

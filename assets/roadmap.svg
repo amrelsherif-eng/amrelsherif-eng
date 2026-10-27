@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Learning roadmap pipeline</title>
+  <desc id="desc">A GitHub Actions style career learning roadmap from AWS Academy through CCNA, Linux, AWS, and DevOps.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1f2937" stroke-width=".5" opacity=".3"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      text{fill:#e6edf3}.mono{font-family:"JetBrains Mono","Cascadia Code",Consolas,ui-monospace,monospace}.title{font-family:"Space Grotesk","Segoe UI",Inter,Helvetica,Arial,sans-serif;font-weight:700}.muted{fill:#8b949e}.header{font-size:16px}.stage{font-size:26px}.sub{font-size:19px}.status{font-size:17px}
+      .pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.spin{animation:spin 2.5s linear infinite;transform-box:fill-box;transform-origin:center}.packet{filter:url(#glow)}
+      @keyframes pulse{50%{opacity:.45}}@keyframes spin{to{transform:rotate(360deg)}}
+      @media (prefers-reduced-motion: reduce){.pulse,.spin,.packet,.run-dot{animation:none!important}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="339" rx="16" fill="#0a0d10" stroke="#1f2937"/>
+  <rect x="1" y="1" width="1198" height="338" rx="15.5" fill="url(#grid)"/>
+  <text x="32" y="35" class="mono muted header">workflow: career.yml</text>
+  <circle cx="930" cy="30" r="4" fill="#ffb300" class="pulse run-dot"/>
+  <text x="1176" y="35" text-anchor="end" class="mono muted header">run #2026 · in progress</text>
+  <!-- pipeline connectors -->
+  <path d="M240 170H270" stroke="#3fb950" stroke-width="2"/>
+  <path d="M470 170H500M700 170H730M930 170H960" stroke="#8b949e" stroke-width="2" stroke-dasharray="5 6" opacity=".55"/>
+  <circle r="3.5" fill="#00f0ff" class="packet"><animateMotion dur="2.5s" repeatCount="indefinite" path="M240 170H270"/></circle>
+  <!-- done -->
+  <g>
+    <rect x="40" y="82" width="200" height="176" rx="12" fill="#0d1418" stroke="#3fb950" stroke-width="1.5"/>
+    <circle cx="64" cy="120" r="10" fill="#3fb950" opacity=".16"/><path d="m59 120 4 4 7-8" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="82" y="129" class="title" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">AWS Academy</text>
+    <text x="64" y="171" class="title sub" fill="#8b949e">Cloud Foundations</text><text x="64" y="193" class="title sub" fill="#8b949e">+ Architecting</text>
+    <text x="56" y="237" class="mono status" fill="#3fb950">done</text>
+  </g>
+  <!-- CCNA -->
+  <g>
+    <rect x="270" y="82" width="200" height="176" rx="12" fill="#15120b" stroke="#ffb300" stroke-width="1.7"/>
+    <circle cx="298" cy="120" r="13" fill="none" stroke="#ffb300" stroke-width="2" stroke-dasharray="55 18" class="spin" filter="url(#glow)"/>
+    <circle cx="298" cy="120" r="3" fill="#ffb300"/>
+    <text x="322" y="129" class="title stage">CCNA</text><text x="294" y="171" class="title sub" fill="#8b949e">Cisco 200-301</text>
+    <text x="286" y="237" class="mono status" fill="#ffb300">in progress</text>
+  </g>
+  <!-- Linux -->
+  <g>
+    <rect x="500" y="82" width="200" height="176" rx="12" fill="#0c1418" stroke="#00f0ff" stroke-width="1.5" class="pulse"/>
+    <circle cx="528" cy="120" r="11" fill="none" stroke="#00f0ff" stroke-width="2" opacity=".8"/>
+    <text x="552" y="129" class="title stage">Linux</text><text x="524" y="171" class="title sub" fill="#8b949e">RHCSA</text>
+    <text x="516" y="237" class="mono status" fill="#00f0ff">starting</text>
+  </g>
+  <!-- AWS -->
+  <g opacity=".76">
+    <rect x="730" y="82" width="200" height="176" rx="12" fill="#0d1115" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <circle cx="758" cy="120" r="11" fill="none" stroke="#8b949e" stroke-width="2"/>
+    <text x="782" y="129" class="title stage">AWS</text><text x="754" y="160" class="title sub" fill="#8b949e">Solutions</text><text x="754" y="182" class="title sub" fill="#8b949e">Architect</text><text x="754" y="204" class="title sub" fill="#8b949e">Associate</text>
+    <text x="746" y="237" class="mono status muted">queued</text>
+  </g>
+  <!-- DevOps -->
+  <g opacity=".76">
+    <rect x="960" y="82" width="200" height="176" rx="12" fill="#0d1115" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <circle cx="988" cy="120" r="11" fill="none" stroke="#8b949e" stroke-width="2"/>
+    <text x="1012" y="129" class="title stage">DevOps</text><text x="984" y="171" class="title sub" fill="#8b949e">Docker · CI/CD</text><text x="984" y="193" class="title sub" fill="#8b949e">· Terraform</text>
+    <text x="976" y="237" class="mono status muted">queued</text>
+  </g>
+</svg>
