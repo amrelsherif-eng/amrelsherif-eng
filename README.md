@@ -89,9 +89,4 @@
   <img src="assets/cta.svg" width="100%" alt="Your speed doesn't matter, forward is forward. Have a role in mind? Open to internships now and full-time roles from July 2027 · Alexandria, Cairo or remote.">
 </picture>
 
-<p align="center">
-  <a href="https://amrelsherif-eng.vercel.app"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
-  <a href="https://amrelsherif-eng.vercel.app/resume"><img src="assets/btn-resume.svg" height="40" alt="Resume: 3 role-focused versions"></a>
-  <a href="https://www.linkedin.com/in/amrelsherif-eng"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-  <a href="mailto:amrelsherif.eng@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
-</p>
+<p align="center"><a href="mailto:amrelsherif.eng@gmail.com"><img src="assets/btn-email-primary.svg" height="44" alt="Email me"></a></p>
