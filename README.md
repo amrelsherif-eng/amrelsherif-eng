@@ -1,235 +1,50 @@
-<div align="center">
-  <!-- <p><i>⏳ Wait a second for the magic to load... ✨</i></p> -->
-  <img src="banner.webp" width="768" alt="Amr Elsherif Banner"/>
-  <hr>
-  <br><br>
+# Hi, I'm Amr Elsherif 👋
 
-  <a href="https://github.com/dev-amr-elsherif">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Amr+F.+Elsherif+👋;Software+Engineer+💻;Mobile+%26+Backend+Systems+🚀;Team+Leader+@+DEPI+🎯" alt="Typing Text" />
-  </a>
+**Network & Cloud Infrastructure | CCNA Track · AWS · Linux | Aspiring DevOps Engineer**
 
-  <br><br>
+Final-year Electronics & Communications Engineering student at Damanhour University (Class of 2027), based in Alexandria, Egypt.
+I'm building a career in network and cloud infrastructure, on a path toward DevOps. My coding, embedded and team-leadership work is the foundation underneath it.
 
-  <table border="0" cellpadding="10">
-    <tr>
-      <td align="center" width="120">
-        <a href="https://www.linkedin.com/in/amr-fathy-elsherif/">
-          <img src="linkedin.svg" width="55" height="55" alt="LinkedIn" />
-        </a>
-        <br>
-        <a href="https://www.linkedin.com/in/amr-fathy-elsherif/"><b>LinkedIn</b></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://dev-amr-elsherif.github.io/">
-          <img src="portfolio.svg" width="55" height="55" alt="Portfolio" />
-        </a>
-        <br>
-        <a href="https://dev-amr-elsherif.github.io/"><b>Portfolio</b></a>
-      </td>
-      <td align="center" width="120">
-        <a href="mailto:dev.amrelsherif@gmail.com">
-          <img src="gmail.svg" width="55" height="55" alt="Email" />
-        </a>
-        <br>
-        <a href="mailto:dev.amrelsherif@gmail.com"><b>Email</b></a>
-      </td>
-      <td align="center" width="120">
-        <a href="./Amr_Elsherif_Resume.pdf">
-          <img src="resume.svg" width="55" height="55" alt="Resume" />
-        </a>
-        <br>
-        <a href="./Amr_Elsherif_Resume.pdf"><b>Resume</b></a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-# 💫 About Me
-
-Hi 👋 I'm **Amr Fathy Elsherif (Sherif)** 📍 Alexandria, Egypt  
-🎓 Electronics & Communications Engineering Student at Damanhur University (Class of 2027)  
-🚀 I design and build scalable software systems with a strong focus on mobile applications, robust clean architecture, and reliable API integrations.  
-🧠 Coming from an engineering background, I combine analytical problem-solving with modern development tools to deliver maintainable and user-centered digital products.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-00f0ff?style=flat-square&logo=vercel&logoColor=white)](https://amrelsherif-eng.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrelsherif-eng)
+[![Email](https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrelsherif.eng@gmail.com)
 
 ---
 
-### 👨‍💻 Current Focus
-- 🔭 **Designing scalable software systems** utilizing Clean Architecture principles.
-- 📱 **Building performant cross-platform mobile applications** with Flutter and Dart.
-- 🔗 **Integrating backend services** (REST APIs, Firebase, and basic PHP/Laravel exposure).
-- 🧠 **Practicing core software engineering**, including system design and automated testing.
-- 🚀 **Developing production-ready products** to solve real business challenges.
+## 🧭 Where I'm heading
 
----
+| Step | Status |
+|---|---|
+| **CCNA** (Cisco 200-301) | Training at NTI now (CCNA v7, 120 h); exam planned for late 2026 |
+| **Linux** (RHCSA) | Starting now |
+| **AWS** (Solutions Architect Associate) | Next, after AWS Academy Cloud Foundations + Cloud Architecting |
+| **DevOps** (Docker, CI/CD, Terraform) | Later |
 
-### 🧩 Technical Direction
-I specialize in building software that is:
-- 🏗️ **Architecturally Sound** → Modular, testable, and extensible codebases.
-- 🔄 **Well-Structured** → Strict separation of concerns (Data / Domain / Presentation layers).
-- 🔐 **Secure & Reliable** → Structured databases, robust Auth, and smart data caching.
-- 🌐 **Seamlessly Connected** → Efficient REST API consumption and JSON parsing.
-- 📱 **User-Centric** → High-performance rendering and intuitive mobile UI/UX.
+Open to **internships** now (Network, NOC, Cloud, SysAdmin, Junior DevOps) and **full-time roles from July 2027**, in Alexandria, Cairo or remote.
 
----
+## 🛠️ What I work with
 
-### 👥 Leadership & Team Work
-- 🏆 **Team Leader** at Digital Egypt Pioneers Initiative (DEPI).
-- 👨‍💻 Leading the **DevSync Team** for our graduation project.
-- 🤝 Experienced in agile task distribution, technical planning, and team collaboration using Git & GitHub.
+- **Networking:** TCP/IP, subnetting, VLANs, OSPF, routing, Cisco Packet Tracer
+- **Cloud (AWS):** EC2, S3, VPC, RDS, IAM, high availability, serverless basics
+- **Systems & code:** Linux, Python, Git/GitHub, C/C++, REST APIs
+- **Apps & embedded (project work):** Flutter/Dart, Firebase, ESP32, Raspberry Pi
 
----
+## 📌 Projects
 
-### 🤝 Collaboration & Opportunities
-I’m open to collaborate on:
-- 📱 Mobile Applications (Flutter).
-- 🔗 Systems requiring API and Firebase integrations.
-- 🧠 Software architecture and technical planning phases.
-- 🚀 MVPs for startups (from conceptual architecture to full implementation).
+| Project | What it is |
+|---|---|
+| [**Network Lab**](https://amrelsherif-eng.vercel.app/lab) | Three short browser games on my portfolio: Subnetting Sprint, Fix the Network (CCNA troubleshooting cases) and Build a VPC |
+| [**WeatherLink**](https://github.com/amrelsherif-eng/weatherlink) | 5-member team IoT project: ESP32-S3 firmware (C++/PlatformIO) → Blynk Cloud → Flutter app (Clean Architecture, BLoC) |
+| [**DevSync**](https://github.com/amrelsherif-eng/devsync_flutter) | DEPI capstone: I led the 5-member team that designed and built an AI developer-to-project matching app (Flutter, Firebase, GitHub API, Gemini API) |
+| [**Resume template**](https://github.com/amrelsherif-eng/software-engineer-resume-template) | My open-source, ATS-friendly one-page LaTeX resume template, ready to copy on Overleaf |
+| [**Portfolio**](https://github.com/amrelsherif-eng/portfolio) | React, TypeScript, Three.js and GSAP, with the Network Lab and the Ping AI assistant |
+| **Li-Fi graduation project** | 4-member team, design phase: beam-steered Li-Fi with seamless Wi-Fi failover (Raspberry Pi 5, WireGuard, OpenCV tracking) |
 
----
+## 🎓 Certifications & training
 
-### 💬 Ask Me About
-- 🧠 Software Architecture, SOLID principles, and Clean Code.
-- 🔗 API Design consumption and state management.
-- 📱 Building highly-scalable Flutter apps from the ground up.
-- 🔥 Firebase integration (Auth, Firestore, Storage, FCM).
-- 🔄 Bridging the gap between Web concepts (PHP/Laravel) and Mobile Environments.
+- **AWS Academy Graduate:** Cloud Architecting · Cloud Foundations
+- **NTI × ITIDA:** Cloud Architect Internship (AWS, 120 h) · Full Stack Web Development (PHP, 120 h)
+- **DEPI (MCIT):** Certificate of Achievement (Flutter) · Certificate of Appreciation as Team Leader
+- **In progress:** Cisco CCNA v7 at NTI
 
----
-
-### ⚡ What I bring to your project
-> **I engineer software systems — not just mobile apps.**
->
-> I focus on architecture, scalability, and clean code to build products that grow and adapt to business needs.
-
----
-
-# 🔥 Pinned Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/dev-amr-elsherif/software-engineer-resume-template">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/software-engineer-resume-template" width="100%" alt="Software Engineer Resume Template">
-        </a>
-        <br>
-        <p><b>⚡ Software Engineer Resume Template</b><br>A battle-tested, minimalist, and ATS-optimized LaTeX resume template tailored for tech professionals. 📄</p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/dev-amr-elsherif/weatherlink">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/weatherlink" width="100%" alt="WeatherLink Project">
-        </a>
-        <br>
-        <p><b>🌍 WeatherLink</b><br>Smart Environmental Control Ecosystem bridging ESP32-S3 hardware with a premium Flutter dashboard via Blynk IoT. ⚙️</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/dev-amr-elsherif/devsync_flutter">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Project">
-        </a>
-        <br>
-        <p><b>🚀 DevSync</b><br>AI-powered developer matching platform focused on team collaboration and skill-based pairing. 🤝</p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt" width="100%" alt="Flutter Dart Specialization">
-        </a>
-        <br>
-        <p><b>🌟 Flutter & Dart Specialization</b><br>Practical implementations of advanced mobile engineering concepts and scalable architecture. 📱</p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-<hr>
-<br>
-
-# 💻 Tech Stack & Skills
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,php,laravel,mysql,sqlite,html,bootstrap,git,github,vscode,androidstudio,postman,figma,css&theme=dark&perline=8" alt="Core Tech Stack"/>
-</a>
-
-  <br><br>
-
-  <h3>🧠 Architecture & State Management</h3>
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/BLoC_(Primary)-000000?style=for-the-badge&logo=dart&logoColor=7A5CFF" alt="BLoC" />
-  <img src="https://img.shields.io/badge/GetX_(Secondary)-000000?style=for-the-badge&logo=flutter&logoColor=00F0FF" alt="GetX" />
-  <img src="https://img.shields.io/badge/Dependency_Injection_(get__it)-000000?style=for-the-badge&logo=dart&logoColor=7A5CFF" alt="get_it" />
-
-  <br><br>
-
-  <h3>🌐 Networking & Data Handling</h3>
-  <img src="https://img.shields.io/badge/Dio-000000?style=for-the-badge&logo=dart&logoColor=00F0FF" alt="Dio" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=json&logoColor=7A5CFF" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=00F0FF" alt="Hive" />
-  <img src="https://img.shields.io/badge/Shared_Preferences-000000?style=for-the-badge&logo=android&logoColor=7A5CFF" alt="SharedPreferences" />
-
-  <br><br>
-
-  <h3>🔥 Cloud Services & Core Tools</h3>
-  <img src="https://img.shields.io/badge/Firebase_Auth-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Auth" />
-  <img src="https://img.shields.io/badge/Cloud_Firestore-000000?style=for-the-badge&logo=firebase&logoColor=7A5CFF" alt="Cloud Firestore" />
-  <img src="https://img.shields.io/badge/Firebase_Storage-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Storage" />
-  <img src="https://img.shields.io/badge/FCM_(Push_Notifications)-000000?style=for-the-badge&logo=firebase&logoColor=7A5CFF" alt="FCM" />
-  <img src="https://img.shields.io/badge/Unit_&_Widget_Testing-000000?style=for-the-badge&logo=jest&logoColor=00F0FF" alt="Testing" />
-
-</div>
-
-<br>
-<hr>
-<br>
-
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-amr-elsherif&theme=github_dark" width="100%" alt="Profile Details" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-amr-elsherif&theme=github_dark" width="48%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-amr-elsherif&theme=github_dark" width="48%" alt="Repos Per Language" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amr-elsherif&theme=dark&hide_border=true&background=0D1117&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF" width="100%" alt="GitHub Streak" />
-
-<br/><br/>
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/GITHUB%20STATISTICS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=009DFF" alt="GitHub Stats Header" />
-
-  <br>
-
-  <a href="https://github.com/dev-amr-elsherif?tab=followers">
-    <img src="https://img.shields.io/github/followers/dev-amr-elsherif?label=Followers&style=flat-square&color=009DFF" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dev-amr-elsherif?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-009DFF?style=flat-square" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dev-amr-elsherif?tab=stars">
-    <img src="https://img.shields.io/github/stars/dev-amr-elsherif?label=Stars&style=flat-square&color=009DFF" alt="Stars" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dev-amr-elsherif">
-    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square" alt="Views" />
-  </a>
-
-</div>
-
-</div>
-
-</div>
+Full list with verification links: **[amrelsherif-eng.vercel.app/certifications](https://amrelsherif-eng.vercel.app/certifications)**
