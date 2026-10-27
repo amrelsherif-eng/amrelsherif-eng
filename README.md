@@ -5,7 +5,7 @@
 Final-year Electronics & Communications Engineering student at Damanhour University (Class of 2027), based in Alexandria, Egypt.
 I'm building a career in network and cloud infrastructure, on a path toward DevOps. My coding, embedded and team-leadership work is the foundation underneath it.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-00f0ff?style=flat-square&logo=vercel&logoColor=white)](https://amrelsherif-eng.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amrelsherif--eng.vercel.app-0e7490?style=flat-square&logo=vercel&logoColor=white)](https://amrelsherif-eng.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrelsherif--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrelsherif-eng)
 [![Email](https://img.shields.io/badge/Email-amrelsherif.eng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrelsherif.eng@gmail.com)
 
