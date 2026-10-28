@@ -53,7 +53,7 @@
   </picture>
 </a>
 
-<a href="https://github.com/amrelsherif-eng/software-engineer-resume-template">
+<a href="https://github.com/amrelsherif-eng/ats-resume-templates">
   <picture>
     <source media="(max-width: 767px)" srcset="assets/project-resume-template-mobile.svg">
     <img src="assets/project-resume-template.svg" width="100%" alt="Resume template: My open-source, ATS-friendly one-page LaTeX resume template, ready to copy on Overleaf">
