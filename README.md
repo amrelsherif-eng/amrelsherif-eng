@@ -12,6 +12,8 @@
   <a href="mailto:amrelsherif.eng@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
+<p align="center">Direct PDFs: <a href="https://amrelsherif-eng.vercel.app/cv/Amr-Elsherif-Network-Cloud.pdf">Network &amp; Cloud</a> · <a href="https://amrelsherif-eng.vercel.app/cv/Amr-Elsherif-Embedded-ECE.pdf">Embedded &amp; ECE</a> · <a href="https://amrelsherif-eng.vercel.app/cv/Amr-Elsherif-Mobile-Apps.pdf">Mobile Apps</a></p>
+
 <picture>
   <source media="(max-width: 767px)" srcset="assets/neofetch-mobile.svg">
   <img src="assets/neofetch.svg" width="100%" alt="Amr Elsherif: role, track, skills and contact in a neofetch-style card">
@@ -83,6 +85,8 @@
     <img src="assets/certs.svg" width="100%" alt="Certifications: AWS Academy Graduate in Cloud Architecting and Cloud Foundations; NTI × ITIDA Cloud Architect Internship and Full Stack Web Development (120 h each); DEPI Certificate of Achievement and Certificate of Appreciation as Team Leader; Cisco CCNA v7 in progress. Click to see the full list with verification links.">
   </picture>
 </a>
+
+<p align="center"><a href="https://www.credly.com/users/amrelsherif-eng">All verified badges on Credly</a></p>
 
 <picture>
   <source media="(max-width: 767px)" srcset="assets/cta-mobile.svg">
